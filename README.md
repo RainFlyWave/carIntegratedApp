@@ -7,4 +7,8 @@ I dont know why I'm doing this but it's a funny project to do
 * Django
 * ReactJS
 * PostgreSQL
-* gonna see whats needed lol
+* gonna see whats needed 
+
+
+You cannot use this code for anything that might be considered commercial use. 
+
