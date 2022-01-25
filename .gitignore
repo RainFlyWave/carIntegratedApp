@@ -1,0 +1,10 @@
+#Etc
+.env
+
+
+#Frontend
+node_modules
+
+#Backend
+
+
