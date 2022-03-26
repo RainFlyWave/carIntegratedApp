@@ -12,3 +12,6 @@ I dont know why I'm doing this but it's a funny project to do
 
 You cannot use this code for anything that might be considered commercial use. 
 
+
+Updadte: ughhhhh im so fascinated by Docker that i forgot about this project. Also i have several other things to do so maybe i'll return here
+
